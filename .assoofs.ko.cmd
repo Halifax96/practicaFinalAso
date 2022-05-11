@@ -1,0 +1,1 @@
+cmd_/home/esalap00/Descargas/assoofsso/assoofs.ko := ld -r  -m elf_x86_64  --build-id=sha1  -T scripts/module.lds -o /home/esalap00/Descargas/assoofsso/assoofs.ko /home/esalap00/Descargas/assoofsso/assoofs.o /home/esalap00/Descargas/assoofsso/assoofs.mod.o;  true

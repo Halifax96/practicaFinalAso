@@ -1,0 +1,1 @@
+cmd_/home/esalap00/Descargas/assoofsso/Module.symvers := sed 's/\.ko$$/\.o/' /home/esalap00/Descargas/assoofsso/modules.order | scripts/mod/modpost -m -a  -o /home/esalap00/Descargas/assoofsso/Module.symvers -e -i Module.symvers   -T -
